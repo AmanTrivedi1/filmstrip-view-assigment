@@ -1,3 +1,6 @@
+## Preview 
+
+![App Screenshot](https://github.com/AmanTrivedi1/filmstrip-view-assigment/blob/main/frontend/assets/Screenshot%202024-07-15%20005429.png)
 
 ## Run Locally
 
