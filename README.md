@@ -28,7 +28,7 @@ Start the frontend
   npm start
 ```
 
-goto backend file in same way
+goto backend file in the same way
 
 
 ```bash
@@ -48,4 +48,8 @@ Start the server
   npm start
 ```
 
+## Your project should be running at
+
+**Frontend:** [http://localhost:3000/](http://localhost:3000/)  
+**Backend:** [http://localhost:8000/](http://localhost:8000/)
   
